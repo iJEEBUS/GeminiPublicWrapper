@@ -1,3 +1,10 @@
+'''
+	Filename: gemini.py
+	Author: Ronald Rounsifer
+	Date created: 10/23/2017
+	Date last modified: 10/24/2017
+	Python version 2.7.13
+'''
 import requests
 
 def setSandbox(input):
